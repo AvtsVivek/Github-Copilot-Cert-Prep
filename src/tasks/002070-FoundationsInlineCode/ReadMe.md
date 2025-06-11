@@ -26,7 +26,6 @@
    5. `Ctrl + Right Arrow` will move the cursor to the next word. This way we can accept only a partial suggestion, of what copilot has suggested.
 
 5. `Alt + \` will show the ghost text suggestions.
-
    1. You can press Tab to accept the suggestion.
    2. You can press Esc to reject the suggestion.
 
@@ -34,4 +33,10 @@
    ![Copilot sidebar](images/53_50_VsCodeCtrlAltBOpenChatWindow.png "Copilot sidebar")
 
 7. Github Copilot as Pair Programmer.
+   1. You can also use the `Ctrl + Enter` shortcut to show the suggestions in the sidebar.
+   ![Copilot Suggestions sidebar](images/54_50_OpenCopilotCompletionsPanel.png "Copilot Suggestions sidebar")
+   2. If Ctrl + Enter does not work, you can use `Ctrl + Shift + P` to open the command palette and then type `Copilot: Open Completions Panel`.
+      1. Ref 1: https://github.com/orgs/community/discussions/162320#discussioncomment-13417141
+      2. Ref 2: https://stackoverflow.com/q/79657879/1977871
+   3. 
 
