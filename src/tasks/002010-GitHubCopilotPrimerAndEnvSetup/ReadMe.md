@@ -29,10 +29,14 @@
    3. Agent
       1. Edit multiple files and run code.
       2. This mode allows copilot to autonomously perform tasks, such as writing and testing code, running commands, and iterating to resolve issues. Its best suited for complex tasks where you want copilot to take the lead.
-4. First example.
-   1. Here is a simple example of how to use github copilot.
-   2. ![FirstExample](images/53_50_BasicCopilotInActionInPithonFile.png)
-   3. ![Invoke Code Pilot](images/54_50_InvokeVsCodeCopilot.png)
-   4. ![In Ask Mode Question](images/55_50_CopilotInAskModeQuestion.png)
-   5. ![Copilot Answer](images/56_50_CopilotAnswerPandas.png)
+4. Test drive.
+   1. Here are a few simple example of how to use github copilot.
+   2. Copilot in action as you type in a file. 
+      ![FirstExample](images/53_50_BasicCopilotInActionInPithonFile.png)
+   3. Open Chat
+      ![Invoke Code Pilot](images/54_50_InvokeVsCodeCopilot.png)
+   4. Ask Copilot
+      ![In Ask Mode Question](images/55_50_CopilotInAskModeQuestion.png)
+   5. Copilot answers
+      ![Copilot Answer](images/56_50_CopilotAnswerPandas.png)
    6. 
