@@ -51,7 +51,7 @@
    ![Ctrl + Right Arrow](images/52_50_VsCodeCtrlRightArrow.png "Ctrl + Right Arrow")
 
 7. `Ctrl + Alt + B` will open the Copilot sidebar.
-![Copilot sidebar](images/53_50_VsCodeCtrlAltBOpenChatWindow.png "Copilot sidebar")
+   ![Copilot sidebar](images/53_50_VsCodeCtrlAltBOpenChatWindow.png "Copilot sidebar")
 
 8. Github Copilot as Pair Programmer.
    1. You can also use the `Ctrl + Enter` shortcut to show the suggestions in the sidebar.
