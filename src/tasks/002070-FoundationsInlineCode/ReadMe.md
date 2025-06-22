@@ -21,8 +21,7 @@
       ![Edit Settings](images/40_60_EditSettings.png "Edit Settings")
       3. Step 3
       ![Github Copilot Settings](images/40_65_GithubCopilotSettings.png "Github Copilot Settings")
-      4. asdf 
-      5. asdf
+      4. 
 
 3. Keyboard shortcuts.
    1. You can use keyboard shortcuts to accept, modify, or reject the suggestions.
@@ -46,11 +45,11 @@
 5. `Alt + \` will show the ghost text suggestions.
    1. You can press Tab to accept the suggestion.
    2. You can press Esc to reject the suggestion.
-   3. Note this is different from `Ctrl + Space bar` which shows the IntelliSense suggestions. 
+   3. Note this is different from `Ctrl + Space bar` which shows the IntelliSense suggestions.
 6. `Ctrl + Right Arrow` will move the cursor to the next word. This way we can accept only a partial suggestion, of what copilot has suggested.
    ![Ctrl + Right Arrow](images/52_50_VsCodeCtrlRightArrow.png "Ctrl + Right Arrow")
 
-7. `Ctrl + Alt + B` will open the Copilot sidebar.
+7. `Ctrl + Alt + B` will open the Copilot sidebar. Pressing again will close the sidebar.
    ![Copilot sidebar](images/53_50_VsCodeCtrlAltBOpenChatWindow.png "Copilot sidebar")
 
 8. Github Copilot as Pair Programmer.
@@ -64,7 +63,7 @@
    1. So if you want to calculate difference between two dates, I type the following as shown.
    ![Difference between two dates](images/55_50_DifferenceBetweenDatesJustTwoDates.png "Difference between two dates")
 
-   2. But say I want the difference between two dates in days, months, years or hours, then I need to provide more context. As shown below, I added one more parameter difference_type. Now the AI system can understand what I want to do.
+   2. But say I want the difference between two dates in days, months, years or hours, then I need to provide more context. As shown below, I added one more parameter difference_type and then press Space bar. Now the AI system can understand what I want to do.
    ![Difference between two dates with context](images/56_50_DifferenceBetweenDatesWithContext.png "Difference between two dates with context")
 
    3. Now lets say, I want to calculate the difference in hours, minutes and seconds as well.
@@ -74,5 +73,3 @@
 
    5. Finally, here it is.
    ![Difference between two dates with all context](images/58_50_DifferenceBetweenDatesFull.png "Difference between two dates with all context")
-
-
