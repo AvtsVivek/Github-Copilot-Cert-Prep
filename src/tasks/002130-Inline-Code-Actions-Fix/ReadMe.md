@@ -18,4 +18,7 @@
    6. ![Add Additional Logic](./images/55_50_AddAditionalLogic.png)
    7. Now you can see the additional logic added.
    8. ![Additional Logic Added](./images/56_50_AdditionalLogicAdded.png)
+4. Another example.
+   1. Open the file F-02_4.py and select the lines as shown in the image below. Then right click -> Copilot -> Fix.
+   2. ![Fixing Python File](./images/57_50_FixPythongFileWithCopilotTwo.png)
    

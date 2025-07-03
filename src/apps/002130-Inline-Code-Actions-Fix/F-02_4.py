@@ -9,7 +9,7 @@ def convert_temperature(fahrenheit: float):
     Formula: (F - 32) * 5/9
     """
 
-    if fahrenheit not int:
+    if not isinstance(fahrenheit, (int, float)):
         raise ValueError("Fahrenheit value must be a number.")
 
     celsius = (fahrenheit - 32) * 5 / 9
