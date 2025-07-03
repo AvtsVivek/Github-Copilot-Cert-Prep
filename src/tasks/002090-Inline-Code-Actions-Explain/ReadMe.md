@@ -10,7 +10,9 @@
 6. Now select the code that is below that error, right click -> Copilot -> Explain.
 ![Explanation in Chat Window](images/51_50_ExplanationInChatWindow.png)
 7. Now ask for details about the code in a table format.
+
 ![Explanation in Table Format](images/52_50_KeepFollowingupWithThis.png)
+
 8. Here is the table format of the explanation.
 ![Explanation in Table Format](images/53_50_TableSummary.png)
 9. Now you can ask for more details, to include output and input parameters.
